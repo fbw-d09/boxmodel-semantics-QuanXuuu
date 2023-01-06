@@ -1,0 +1,42 @@
+h1
+{
+    text-align: center;
+}
+
+h2,h3
+{
+    text-decoration: underline;
+}
+
+main
+{
+    border-top: 2px solid darkgray;
+    border-bottom: 2px solid darkgray;
+}
+
+#box-1
+{
+    width:65%;
+    float: left;
+}
+
+#box-2
+{
+    width: 30%;
+    float: right;
+    margin-left: 1em;
+}
+
+#box-3
+{
+    margin-top: 22em;
+}
+
+#box-3 h2
+{
+    text-align: center;
+}
+
+footer{
+    float: right;
+}
